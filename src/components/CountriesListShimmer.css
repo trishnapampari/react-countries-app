@@ -1,0 +1,22 @@
+.shimmer-card {
+    height: 350px;
+    background-color: #ccc;
+}
+
+.shimmer-card-details {
+height: 260px;
+width: 380px;
+background-color: #ccc;
+
+}
+
+.column-div {
+    height: 20px;
+    width: 380px;
+    background-color: #ccc;
+}
+
+
+.country-details {
+    padding: 20px;
+}
